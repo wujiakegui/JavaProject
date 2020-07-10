@@ -1,0 +1,15 @@
+# 图标设置
+#spring.mvc.favicon.enabled=false
+
+# 关闭模板引擎的缓存
+spring:
+  thymeleaf:
+    cache: false
+
+#server:
+#  servlet:
+#    context-path: /xiao
+#server.servlet.context-path=/xiao
+# 为什么加这个会报错   这个是properties语法而不是yaml语法
+# yml配置文件读取出错：org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping in 'reader'
+# 原因：格式不正确：https://blog.csdn.net/lean_He/article/details/83782298

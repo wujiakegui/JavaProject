@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9aa28c-f5d3-455b-acda-6538458c0779" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eIj5jwBgJDxsqp4WxynGwDeu2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/user" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15917969" />
+    <property name="project.structure.side.proportion" value="0.22325581" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaProject\springboot_jdbc_durid_mybatis_security_shiro\src\main\resources\templates\user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootLearnDataApplication">
+    <configuration name="SpringbootLearnDataApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_jdbc_durid_mybatis_security_shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiao" />
+      <option name="MAIN_CLASS_NAME" value="com.xiao.SpringbootLearnDataApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLearnDataApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_jdbc_durid_mybatis_security_shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiao" />
+      <option name="MAIN_CLASS_NAME" value="com.xiao.SpringbootLearnDataApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLearnDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_jdbc_durid_mybatis_security_shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiao.SpringbootLearnDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootLearnDataApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringbootLearnDataApplicationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9aa28c-f5d3-455b-acda-6538458c0779" name="Default Changelist" comment="" />
+      <created>1594015821207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594015821207</updated>
+      <workItem from="1594015828105" duration="9142000" />
+      <workItem from="1594025088678" duration="6250000" />
+      <workItem from="1594049898381" duration="1245000" />
+      <workItem from="1594083859952" duration="4903000" />
+      <workItem from="1594089498832" duration="1429000" />
+      <workItem from="1594174908516" duration="5291000" />
+      <workItem from="1594187240771" duration="6289000" />
+      <workItem from="1594257799451" duration="2130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="149" y="254" key="#SQL_Dialects" timestamp="1594050134590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="149" y="254" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1594050134590" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594017860969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594017860969" />
+    <state x="367" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1594191503044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594191503044" />
+    <state x="351" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594197950681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="351" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1594197950681" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1594049278412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594049278412" />
+    <state x="595" y="125" key="FileChooserDialogImpl" timestamp="1594090930815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="595" y="125" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594090930815" />
+    <state width="814" height="161" key="GridCell.Tab.0.bottom" timestamp="1594197979877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="814" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594197979877" />
+    <state width="814" height="161" key="GridCell.Tab.0.center" timestamp="1594197979877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="814" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594197979877" />
+    <state width="814" height="161" key="GridCell.Tab.0.left" timestamp="1594197979877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="814" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594197979877" />
+    <state width="814" height="161" key="GridCell.Tab.0.right" timestamp="1594197979877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="814" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594197979877" />
+    <state width="1493" height="161" key="GridCell.Tab.1.bottom" timestamp="1594197979835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594197979835" />
+    <state width="1493" height="161" key="GridCell.Tab.1.center" timestamp="1594197979835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594197979835" />
+    <state width="1493" height="161" key="GridCell.Tab.1.left" timestamp="1594197979835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594197979835" />
+    <state width="1493" height="161" key="GridCell.Tab.1.right" timestamp="1594197979835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594197979835" />
+    <state width="219" height="456" key="HiddenNamespacesPopup" timestamp="1594017822985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="219" height="456" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1594017822985" />
+    <state x="298" y="66" key="Maven.ArtifactSearchDialog" timestamp="1594186798114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="66" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1594186798114" />
+    <state x="248" y="0" key="SettingsEditor" timestamp="1594187188452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594187188452" />
+    <state x="611" y="229" width="506" height="366" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1594025293879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="229" width="506" height="366" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1594025293879" />
+    <state x="155" y="73" key="new project wizard" timestamp="1594260154070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="155" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594260154070" />
+    <state x="498" y="229" width="635" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594089785693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="229" width="635" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1594089785693" />
+    <state x="111" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1594178470502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="111" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594178470502" />
+    <state x="490" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594090097951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1594090097951" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+2020-07-02 15:34:01.344  INFO 1380 --- [restartedMain] com.xiao.blog.BlogApplication            : Starting BlogApplication on xiao with PID 1380 (D:\javaProject\blog\target\classes started by HP in D:\javaProject\blog)
+2020-07-02 15:34:01.345  INFO 1380 --- [restartedMain] com.xiao.blog.BlogApplication            : The following profiles are active: pro
+2020-07-02 15:34:02.822  WARN 1380 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-07-02 15:34:03.325  INFO 1380 --- [restartedMain] com.xiao.blog.BlogApplication            : Started BlogApplication in 2.598 seconds (JVM running for 4.337)

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="address" class="com.xiao.pojo.Address"/>
+    <bean id="student" class="com.xiao.pojo.Student">
+        <!--第一种，普通值注入，直接使用value-->
+        <property name="name" value="可归"/>
+        <!--第二种，bean注入，ref -->
+        <property name="address" ref="address"/>
+        <!--第三种，数组注入-->
+        <property name="books">
+            <array>
+                <value>物来顺应</value>
+                <value>未来不迎</value>
+                <value>当时不杂</value>
+                <value>既过不恋</value>
+            </array>
+        </property>
+        <!--第四种，List注入-->
+        <property name="hobbys">
+            <list>
+                <value>晓看天色暮看云</value>
+                <value>行也思君</value>
+                <value>坐也思君</value>
+            </list>
+        </property>
+        <!--第五种，Map注入 -->
+        <property name="card">
+            <map>
+                <entry key="学号" value="1510431010"/>
+                <entry key="身份证" value="342423199602292332"/>
+                <entry key="银行卡" value="355855500004451124111"/>
+            </map>
+        </property>
+        <!--第六种，Set注入 -->
+        <property name="games">
+            <set>
+                <value>王者荣耀</value>
+                <value>绝地求生</value>
+                <value>穿越火线</value>
+            </set>
+        </property>
+        <!--第七种，null注入 -->
+        <property name="wife">
+            <null/>
+        </property>
+        <!--第八种，properties注入 -->
+        <property name="info">
+            <props>
+                <prop key="学号">1510401047</prop>
+                <prop key="姓名">可归</prop>
+                <prop key="专业">物联网工程</prop>
+            </props>
+        </property>
+    </bean>
+</beans>

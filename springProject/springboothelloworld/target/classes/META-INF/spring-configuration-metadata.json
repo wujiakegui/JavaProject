@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.xiao.springboothelloworld.pojo.Person",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.xiao.springboothelloworld.pojo.Dog",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    },
+    {
+      "name": "person.happy",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.xiao.springboothelloworld.pojo.Person"
+    }
+  ],
+  "hints": []
+}

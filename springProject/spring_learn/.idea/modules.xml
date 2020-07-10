@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_01_ioc/spring_01_ioc.iml" filepath="$PROJECT_DIR$/spring_01_ioc/spring_01_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_01_ioc1/spring_01_ioc1.iml" filepath="$PROJECT_DIR$/spring_01_ioc1/spring_01_ioc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_02_hellospring/spring_02_hellospring.iml" filepath="$PROJECT_DIR$/spring_02_hellospring/spring_02_hellospring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_02_hellospring1/spring_02_hellospring1.iml" filepath="$PROJECT_DIR$/spring_02_hellospring1/spring_02_hellospring1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_03_di/spring_03_di.iml" filepath="$PROJECT_DIR$/spring_03_di/spring_03_di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_04_autowired/spring_04_autowired.iml" filepath="$PROJECT_DIR$/spring_04_autowired/spring_04_autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_05_annotation/spring_05_annotation.iml" filepath="$PROJECT_DIR$/spring_05_annotation/spring_05_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_06_appconfig/spring_06_appconfig.iml" filepath="$PROJECT_DIR$/spring_06_appconfig/spring_06_appconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_07_proxy/spring_07_proxy.iml" filepath="$PROJECT_DIR$/spring_07_proxy/spring_07_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_08_aop/spring_08_aop.iml" filepath="$PROJECT_DIR$/spring_08_aop/spring_08_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_10_transaction/spring_10_transaction.iml" filepath="$PROJECT_DIR$/spring_10_transaction/spring_10_transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_11_bean/spring_11_bean.iml" filepath="$PROJECT_DIR$/spring_11_bean/spring_11_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_9_mybatis/spring_9_mybatis.iml" filepath="$PROJECT_DIR$/spring_9_mybatis/spring_9_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_learn.iml" filepath="$PROJECT_DIR$/spring_learn.iml" />
+    </modules>
+  </component>
+</project>
